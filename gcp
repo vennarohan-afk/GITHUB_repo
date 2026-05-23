@@ -1,0 +1,4 @@
+x=10
+y=12
+z=x+y
+now the final output is 22
